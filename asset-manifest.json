@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Project_Kanban_board/static/css/main.2b70d3c6.css",
+    "main.js": "/Project_Kanban_board/static/js/main.bfde01f6.js",
+    "static/media/slider.png": "/Project_Kanban_board/static/media/slider.cd84c687fd7b05294f36.png",
+    "static/media/circle.png": "/Project_Kanban_board/static/media/circle.eebc854ee171ea68880b.png",
+    "static/media/user.avif": "/Project_Kanban_board/static/media/user.d539143807557b090e60.avif",
+    "index.html": "/Project_Kanban_board/index.html",
+    "main.2b70d3c6.css.map": "/Project_Kanban_board/static/css/main.2b70d3c6.css.map",
+    "main.bfde01f6.js.map": "/Project_Kanban_board/static/js/main.bfde01f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b70d3c6.css",
+    "static/js/main.bfde01f6.js"
+  ]
+}
